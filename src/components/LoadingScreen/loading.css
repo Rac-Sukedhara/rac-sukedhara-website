@@ -1,0 +1,14 @@
+.loading-container {
+    position: fixed;       /* covers the page even if content loads underneath */
+    inset: 0;
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff8f5;
+}
+
+.loading-logo {           /* was ".logo" — now matches the className */
+    width: 120px;
+    height: auto;
+}
