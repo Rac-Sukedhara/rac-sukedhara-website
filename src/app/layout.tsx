@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rotaract Club of Sukedhara | RID 3292",
+  title: "Rotaract Club of Sukedhara | District 3292",
   description: "",
 };
 
